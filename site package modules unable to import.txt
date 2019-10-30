@@ -1,0 +1,2 @@
+1. We have to right click o the package and select Mark directory as
+ a Source Root option.
